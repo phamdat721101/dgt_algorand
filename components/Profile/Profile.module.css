@@ -1,0 +1,39 @@
+.wallet {
+    color: #2563EB;
+    background:none;
+    border:none;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+    width:115px;
+  }
+
+.wallet:hover {
+  color: #2563EB;
+  background:none;
+  border:none;
+  margin:0;
+  padding:0;
+  cursor: pointer;
+  width:115px;
+}
+
+.connected {
+  color: #2563EB;
+  background:none;
+  border:none;
+  margin:0;
+  padding:0;
+  cursor: pointer;
+  width:250px;
+}
+
+.connected:hover {
+color: #2563EB;
+background:none;
+border:none;
+margin:0;
+padding:0;
+cursor: pointer;
+width:250px;
+}

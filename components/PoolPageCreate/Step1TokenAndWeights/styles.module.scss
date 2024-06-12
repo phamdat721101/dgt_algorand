@@ -1,0 +1,19 @@
+.root {
+  background-color: rgb(22 32 49);
+
+  input {
+    color: white;
+  }
+
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  /* Firefox */
+  input[type="number"] {
+    background-color: transparent;
+    -moz-appearance: textfield;
+  }
+}
